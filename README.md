@@ -276,6 +276,6 @@ I use boost_serialization library to serialize `Map`, `MapPoint`, `KeyFrame`,`Ke
 
 This feature is tested with boost 1.64 and it works fine mostly. There is still some occasional segmentfault to dig in.
 
-# 11. ORB_SLAM2 usage with PATMOS
+# 12. ORB_SLAM2 usage with PATMOS
 
-please see the attached word document that searves as a manual for this feature. 
+please see the attached word document that serves as a manual for this feature. 
